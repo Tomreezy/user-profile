@@ -132,7 +132,7 @@ const NavBar = () => {
         <Input placeholder="Search users"/>
        </InputCont>
        <Links>
-         <Link>Reputation</Link>
+         <Link>Reputationa</Link>
          <Link>New</Link>
          <Link>Voters</Link>
          <Link>Editors</Link>
